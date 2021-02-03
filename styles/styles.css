@@ -1,0 +1,118 @@
+/* Documento de estilos */
+
+/* General */
+*{
+	background-color: #e6e7e9;
+}
+#container{
+	width: 1001px;
+	margin:auto;
+}
+
+
+/*  header  */
+#header{
+	width: 1000px;
+	height: 120px;
+	margin-top: 13px;
+	background-color: #4b4b4d;
+}
+#izq{
+	float: left;
+	height: 100%;
+	width: 230px;
+	background-color:#4b4b4d;
+}
+.box{
+	height: 60px;
+	width: 200px;
+	background-color: #d2d3d5;
+	position: relative;
+	top: 30px;
+	left: 30px;
+}
+#der{
+	float: right;
+	height: 100%;
+	width: 165px;
+	background-color: #4b4b4d;
+}
+.circle{
+	float:left;
+	height: 41px;
+	width: 41px;
+	background-color: #e6e7e9;
+	border-radius: 50%;
+	position: relative;
+	top: 39px;
+	margin: 5px;
+}
+
+
+/*  nav  */
+#nav{
+	width: 1000px;
+	height: 48px;
+	background-color: #e6e7e9;
+	margin-top: 21px;
+	/*border: 1px solid black;*/
+}
+
+.box1{
+	float: left;
+	width: 198px;
+	height: 48px;
+	background-color: #97989a;
+	margin: 1px;
+}
+
+
+/*  section  */
+#section{
+	width: 1000px;
+	height: 669px;
+	margin-top: 21px;
+}
+
+
+/*  section-top  */
+#top{
+	height: 191px;
+}
+	.topB{
+	float: left;
+	height: 191px;
+	width: 329px;
+	background-color: #858688;
+	margin-right: 9px;
+}
+.Middle{
+	width: 324px;
+}
+.Left{
+	margin-right: 0px;
+}
+
+
+/*  section-down  */
+#down{
+	margin-top: 25px;
+	height: 453px;
+	background-color: #858688;
+}
+.downB{
+	margin: auto;
+	width: 600px;
+	height: 453px;
+	background-color: #4b4b4d;
+}
+
+
+/*  footer  */
+#footer{
+	width: 1000px;
+	height: 70px;
+	background-color: #4b4b4d;
+	margin-top: 24px;
+	margin-bottom: 23px;
+}
